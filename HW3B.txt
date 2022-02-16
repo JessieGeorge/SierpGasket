@@ -1,0 +1,8 @@
+9/16/2021
+Jessie George
+Stewart Mckenzie
+Bryan Sosa
+
+If this is the first time we're doing a stage of subdivision, then compute and store it.
+If we've already done the subdivision, reuse it.
+We start and end with the original triangle, so you can step through / play through again if you wish.
